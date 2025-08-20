@@ -1,0 +1,12 @@
+{
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "chat.commandCenter.enabled": false,
+    "files.autoSave": "onFocusChange",
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Vim Dark Hard",
+    "workbench.iconTheme": "icons",
+    "editor.fontSize": 15,
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.renderWhitespace": "none"
+}
