@@ -1,9 +1,14 @@
-keybind = cmd+r=reload_config 
-font-size = 16 
-theme = tokyonight_night 
-shell-integration-features = no-cursor 
-cursor-style = block 
-adjust-cell-height = 10% 
-title = " " 
-font-feature = "-calt" 
+keybind = super+r=reload_config
+
+theme = TokyoNight
+
+cursor-style = block
+shell-integration-features = no-cursor
+
+adjust-cell-height = 10%
+
+font-size = 16
+font-feature = "-calt"
+
+title = " "
 macos-titlebar-proxy-icon = hidden
